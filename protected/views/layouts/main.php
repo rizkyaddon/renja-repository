@@ -9,7 +9,7 @@
         <meta name="keywords" content="Admin Page" />
         <meta name="author" content="Ari Rusmanto" />
         <meta name="language" content="Bahasa Indonesia" />
-
+        <!-- OOIOIIOIOIO -->
         <link rel="shortcut icon" href="stylesheet/img/devil-icon.png" /> <!--Pemanggilan gambar favicon-->
 
         <!-- blueprint CSS framework -->
